@@ -9,7 +9,7 @@
 * **NIM / Kelas**: 2330511032 / Teknik Informatika 7A
 * **SEED Dataset**: `1032`
 * **Dosen Pengampu**: Asriyanik, M.T.
-* **Tautan Repositori**: [https://github.com/SalsabilaAnggraina/simuteh-1032](https://github.com/SalsabilaAnggraina/simuteh-2330511032)
+* **Tautan Repositori**: [https://github.com/SalsabilaAnggraina/simuteh-2330511032](https://github.com/SalsabilaAnggraina/simuteh-2330511032)
 * **Release Tag**: `v0.1-praproses`
 
 ---
