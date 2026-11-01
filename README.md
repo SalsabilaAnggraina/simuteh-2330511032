@@ -5,12 +5,12 @@
 ---
 
 ## 📌 Identitas Peneliti & Repositori
-* **Nama Lengkap**: Salsabila Anggraina Putri[cite: 33]
-* **NIM / Kelas**: 2330511032 / Teknik Informatika 7A[cite: 33]
-* **SEED Dataset**: `1032`[cite: 33]
-* **Dosen Pengampu**: Asriyanik, M.T.[cite: 33]
-* **Tautan Repositori**: [https://github.com/SalsabilaAnggraina/simuteh-1032](https://github.com/SalsabilaAnggraina/simuteh-1032)[cite: 33]
-* **Release Tag**: `v0.1-praproses`[cite: 25]
+* **Nama Lengkap**: Salsabila Anggraina Putri
+* **NIM / Kelas**: 2330511032 / Teknik Informatika 7A
+* **SEED Dataset**: `1032`
+* **Dosen Pengampu**: Asriyanik, M.T.
+* **Tautan Repositori**: [https://github.com/SalsabilaAnggraina/simuteh-1032](https://github.com/SalsabilaAnggraina/simuteh-1032)
+* **Release Tag**: `v0.1-praproses`
 
 ---
 
